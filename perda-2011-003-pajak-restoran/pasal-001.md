@@ -1,0 +1,32 @@
+# Pasal 1
+Dalam Peraturan Daerah ini yang dimaksud dengan:
+1. Daerah adalah Kota Padang.
+2. Pemerintah Daerah adalah Walikota dan perangkat daerah sebagai unsur penyelenggara Pemerintahan Daerah.
+3. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD adalah Lembaga Perwakilan Rakyat Daerah sebagai unsur penyelenggara Pemerintahan Daerah.
+4. Kepala Daerah adalah Walikota Padang.
+5. Dinas Pengelolaan Keuangan dan Aset adalah Dinas Pengelolaan Keuangan dan Aset Kota Padang.
+6. Badan adalah sekumpulan orang dan/atau modal yang merupakan kesatuan, baik yang melakukan usaha maupun yang tidak melakukan usaha yang meliputi perseroan terbatas, perseroan komanditer, perseroan lainnya, badan usaha milik negara (BUMN), atau badan usaha milik daerah (BUMD) dengan nama dan dalam bentuk apa pun, firma, kongsi, koperasi, dana pensiun, persekutuan, perkumpulan, yayasan, organisasi massa, organisasi sosial politik, atau organisasi lainnya, lembaga dan bentuk badan lainnya termasuk kontrak investasi kolektif dan bentuk usaha tetap.
+7. Pejabat adalah Pegawai Negeri Sipil yang diberi tugas tertentu dibidang perpajakan daerah sesuai dengan peraturan perundang-undangan yang berlaku.
+8. Pajak Daerah yang selanjutnya disebut pajak, adalah kontribusi wajib kepada daerah yang terutang oleh pribadi atau badan yang bersifat memaksa berdasarkan Undang-undang, dengan tidak mendapatkanimbalan secara langsung dan digunakan untuk keperluan daerah bagi sebesar-besarnya kemakmuran rakyat.
+9. Pajak Restoran adalah Pajak atas pelayanan yang disediakan oleh restoran.
+10. Restoran adalah fasilitas penyedia makanan dan/atau minuman dengan dipungut bayaran, yang mencakup juga rumah makan, kafetaria, kantin, warung, bar dan sejenisnya termasuk jasa boga/catering.
+11. Subjek Pajak adalah orang pribadi atau badan yang dapat dikenakan pajak..
+12. Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong pajak, dan pemungut pajak, yang mempunyai hak dan kewajiban perpajakan sesuai dengan ketentuan peraturan perundang-undangan perpajakan daerah.
+13. Masa Pajak adalah jangka waktu yang lamanya 1 (satu) bulan kalender.
+14. Tahun Pajak adalah jangka waktu yang lamanya 1 (satu) tahun kalender. kecuali bila Wajib Pajak menggunakan buku yang tidak sama dengan tahun kalender.
+15. Pajak terutang adalah pajak yang harus dibayar pada suatu saat, dalam Masa Pajak, dalam Tahun Pajak, atau dalam Bagian Tahun Pajak sesuai dengan ketentuan peraturan perundang-undangan perpajakan daerah.
+16. Pemungutan adalah suatu rangkaian kegiatan mulai dari penghimpunan data Objek dan Subjek Pajak, penentuan besarnya pajak yang terutang sampai kegiatan penagihan pajak serta pengawasan penyetorannya.
+17. Surat Pemberitahuan Pajak Daerah, yang selanjutnya disingkat SPTPD, adalah surat oleh Wajib Pajak digunakan untuk melaporkan perhitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan objek pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan perturan perundang-undangan perpajakan daerah.
+18. Surat Ketetapan Pajak Daerah Kurang Bayar, yang selanjutnya disingkat SKPDKB, adalah ketetapan pajak yang menentukan besarnya jumlah pokok pajak, jumlah kredit pajak, jumlah kekurangan pembayaran pokok pajak, besarnya sanksi administratif, dan jumlah pajak yang masih harus dibayar 19. Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan, yang selanjutnya disingkat SKPDBT, adalah surat ketetapan pajak yang menentukan tambahan atas jumlah pajak yang telah ditetapkan.
+20. Surat Ketetapan Pajak Daerah Nihil, yang selanjutnya disingkat SKPDN, adalah surat ketetapan pajak yang menentukan jumlah pokok pajak sama besarnya dengan jumlah kredit pajak atau pajak tidak terutang dan tidak ada kredit pajak.
+21. Surat Ketetapan Pajak Daerah Lebih Bayar, yang selanjutnya disingkat SKPDLB, adalah surat ketetapan pajak yang menentukan jumlah kelebihan pembayaran pajak karena jumlah kredit pajak lebih besar dari pada pajak yang terutang atau seharusnya tidak terutang.
+22. Surat Tagihan Pajak Daerah, yang selanjutnya disingkat STPD, adalah surat untuk melakukan tagihan pajak dan/atau sanksi administratif berupa bunga dan/atau denda.
+23. Surat Keputusan Pembetulan adalah surat keputusan yang membetulkan kesalahan tulis, kesalahan hitung, dan/atau kekeliruan dalam penerapan ketentuan tertentu dalam perturan perundang-undangan perpajakan daerah yang terdapat dalam Surat Ketetapan Pajak Daerah Kurang Bayar, Surat Ketetapan Pajak Kurang Bayar Tambahan, Surat Ketetapan Pajak Daerah Nihil, Surat Ketetapan Pajak Lebih Bayar, Surat Tagihan Pajak Daerah, Surat Keputusan Pembetulan, atau Surat Keputusan Keberatan.
+24. Surat Keputusan Keberatan adalah surat keputusan atas keberatan terhadap, Surat Ketetapan Pajak Daerah Kurang Bayar, Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan, Surat Ketetapan Pajak Daerah Nihil, Surat Ketetapan Pajak Daerah Lebih Bayar, atau terhadap pemotongan pemungutan oleh pihak ketiga yang diajukan Wajib Pajak.
+25. Putusan Banding adalah putusan badan peradilan Pajak atas banding terhadap Surat Keputusan Keberatan yang dilakukan oleh Wajib Pajak.
+26. Pembukuan adalah suatu proses pencatatan yang dilakukan secara teratur untuk mengumpulkan data dan informasi keuangan yang meliputi harta, kewajiban, modal, penghasilan dan bayar, serta jumlah harga perolehan dan penyerahan barang atau jasa, yang ditutup dengan menyusun laporan keuangan berupa neraca dan laporan laba rugi untuk periode Tahun Pajak tersebut.
+27. Pemeriksaan adalah serangkaian kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti yang dilaksanakan secara objektif dan profesional berdasarkan suatu standar pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan daerah dan/atau untuk tujuan lain dalam rangka melaksanakan ketentuan perturan perundang-udangan perpajakan daerah dan retribusi daerah.
+28. Penyidik Pegawai Negeri Sipil yang selanjutnya disingkat PPNS adalah Pejabat Pegawai Negeri Sipil tertentu di lingkungan Pemerintah Daerah yang diberi wewenang khusus oleh Undang-Undang untuk melakukan penyidikan terhadap pelanggaran Peraturan Daerah.
+29. Penyidikan tindak pidana di bidang perpajakan daerah adalah serangakaian tindakan yang dilakukan oleh Penyidik untuk mencari serta mengumpulkan bukti yang dengan bukti 1 membuat terang tindak pidana di bidang perpajakan daerah yang terjadi serta menemukan tersangkanya.
+BAB II
+NAMA, OBJEK, SUBJEK DAN WAJIB PAJAK

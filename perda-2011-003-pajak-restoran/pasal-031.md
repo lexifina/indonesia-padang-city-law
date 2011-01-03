@@ -1,0 +1,5 @@
+# Pasal 31
+(1) Pejabat atau tenaga ahli yang ditunjuk oleh Walikota yang karena kealpaannya tidak memenuhi kewajiban merahasiakan hal sebagaimana dimaksud dalam Pasal 27 ayat (1) dan ayat (2) dipidana dengan pidana kurungan paling lama 1(satu) tahun dan pidana denda paling banyak Rp. 4.000.000,00 (empat juta rupiah).
+(2) Pejabat atau tenaga ahli yang ditunjuk oleh Walikota yang dengan sengaja tidak memenuhi kewajibannya atau seseorang yang menyebabkan tidak dipenuhinya kewajiban pejabat sebagaimana dimaksud dalam Pasal 28 ayat (1) dan ayat (2) dipidana dengan pidana kurungan paling lama 2 (dua) tahun dan pidana denda paling banyak Rp. 10.000.000,00 (sepuluh juta rupiah).
+(3) Penuntutan terhadap tindak pidana sebagaimana dimaksud pada ayat (1) dan ayat (2) hanya dilakukan atas pengaduan orang yang kerahasiaannya dilanggar.
+(4) Tuntutan pidana sebagaimana dimaksud pada ayat (1) dan ayat (2) sesuai dengan sifatnya adalah menyangkut kepentingan pribadi seseorang atau badan selaku Wajib Pajak, karena dijadikan tindak pidana pengaduan.
