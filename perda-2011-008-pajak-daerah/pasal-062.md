@@ -1,0 +1,3 @@
+# Pasal 62
+Pada saat Peraturan Daerah ini mulai berlaku maka:
+1. Peraturan Daerah Kota Padang Nomor 12 Tahun 2002 tentang Pajak Parkir (Lembaran Daerah Tahun 2002 Nomor 33) 2. Peraturan Daerah Kota Padang Nomor 13 Tahun 2002 tentang Pajak Hotel (Lembaran Daerah Tahun 2002 Nomor 34) 3. Peraturan Daerah Kota Padang Nomor 16 Tahun 2002 tentang Pajak Penerangan Jalan (Lembaran Daerah Tahun 2002 Nomor 37) 4. Peraturan Daerah Kota Padang Nomor 21 Tahun 2002 tentang Pajak Pengambilan Bahan Galian Golongan C (Lembaran Daerah Tahun 2002 Nomor 44) 5. Peraturan Daerah Kota Padang Nomor 22 Tahun 2002 tentang Pajak Reklame (Lembaran Daerah Tahun 2002 Nomor 45) dicabut dan dinyatakan tidak berlaku.
