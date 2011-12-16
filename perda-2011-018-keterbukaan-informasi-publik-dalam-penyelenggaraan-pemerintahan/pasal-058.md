@@ -1,0 +1,2 @@
+# Pasal 58
+Badan Publik yang dengan sengaja tidak menyediakan, tidak memberikan, dan/atau tidak menerbitkan Informasi Publik berupa Informasi Publik secara berkala, Informasi Publik yang wajib diumumkan secara serta-merta, Informasi Publik yang wajib tersedia setiap saat, dan/atau Informasi Publik yang harus diberikan atas dasar permintaan sesuai dengan Peraturan Daerah ini, dan mengakibatkan kerugian bagi orang lain dikenakan pidana kurungan paling lama 1 (satu) tahun dan/atau pidana denda paling banyak Rp.5.000.000,00 (lima juta rupiah).

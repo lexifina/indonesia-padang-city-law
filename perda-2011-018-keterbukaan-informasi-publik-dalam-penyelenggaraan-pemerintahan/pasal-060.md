@@ -1,0 +1,3 @@
+# Pasal 60
+(1) Setiap orang yang dengan sengaja dan tanpa hak mengakses dan/atau memperoleh dan/atau memberikan informasi yang dikecualikan sebagaimana diatur dalam Pasal 22 huruf a, huruf b, huruf d, huruf f, huruf g, huruf h, huruf i, dan huruf j dipidana dengan pidana penjara paling lama 2 (dua) tahun dan pidana denda paling banyak Rp10.000.000,00 (sepuluh juta rupiah).
+(2) Setiap orang yang dengan sengaja dan tanpa hak mengakses dan/atau memperoleh dan/atau memberikan informasi yang dikecualikan sebagaimana diatur dalam Pasal 22 huruf c dan huruf e, dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak Rp20.000.000,00 (dua puluh juta rupiah).
