@@ -1,0 +1,86 @@
+# Penjelasan
+PENJELASAN
+ATAS PERATURAN DAERAH KOTA PADANG NOMOR 8 TAHUN 2012 TENTANG PENGAWASAN, PENGENDALIAN DAN PELARANGAN MINUMAN BERALKOHOL
+I. Penjelasan Umum Meskipun dari aspek sosial budaya warga Kota Padang tidak memiliki budaya meminum minuman beralkohol, namum dalam kenyataannya peredaran minuman beralkohol secara ilegal cukup banyak ditemukan di kota Padang. Kondisi ini telah menimbulkan keresahaan dan kecemasan dalam masyarakat. Untuk menyikapi kondisi tersebut, pemerintah Kota Padang dihadapkan dengan pilihan yang serba sulit. Selain sebagai kota pusat pemerintahan provinsi, juga sekaligus sebagai kota perdagangan serta salah satu kota tujuan wisata secara nasional maupun internasional. Persoalan ini semakin dilematis pada saat dilihat dari optik kultural. Sebagaimana sama-sama dipahami, masyarakat Kota Padang sebagai bagian yang tidak terpisahkan dari masyarakat Minangkabau menjunjung tinggi falsafah “Adat Basandi Syara’, Syara’ Basandikan Kitabullah, Syara’ Mangato, Adat Mamakai”. Fasafah ini mendeskripsikan bahwa masyarakat Minangkabau dalah masyarakat regilius yang berdasarkan pada ajaran Islam. Dalam ajaran Islam sendiri, minuman beralkohol yang diistilah dengan Qamar adalah haram hukumnya. Dengan kata lain, berdasarkan falsafah ABS, SBK minuman beralkohol tersebut harus dilarang. Apa lagi kondisi ini dipandang dari segi kesehatan, di mana secara teori medis alkohol merupakan minuman yang dapat menimbulkan berbagai penyakit.
+Secara normatif tidak ada aturan yang melarang peredaran minuman beralkohol, yang ada adalah ketentuan yang berkaitan dengan pengadaan, pengedaran, penjualan, pengawasan, dan pengendalian minuman beralkohol sebagaimana diatur dalam Peraturan Menteri Perdagangan Republik Indonesia Nomor 43/M-DAG/PER/9/2009 yang kemudian diperbaharui dengan Peraturan Menteri Perdagangan Republik Indonesia Nomor 53/M-DAG/PER/12/2010. Berpijak dari ketentuan Menteri Perdagangan tersebut, pemerintah Kota Padang telah menerbitkan Peraturan Daerah Nomor 13 Tahun 2011 tentang Retribusi Perizinan Tertentu, di mana didalamnya telah diatur mengenai retribusi terhadap penjualan minuman beralkohol.
+Dengan semakin meluasnya peredaran minuman beralkohol di Kota Padang, maka perlu dilakukan pengawasan, pengendalian dan pelarangan minuman beralkohol, dimana diharapkan dapat dilakukan pengawasan dan pembinaan kepada para penjual. Namun demikian bukan berarti Pemerintah Kota Padang akan melegalkan pengedaran dan penjualan minuman beralkohol di Kota Padang karena berdasarkan Peraturan Daerah ini minuman beralkohal hanya dapat dijual ditempat-tempat yang telah ditentukan sehingga tidak ditemukan lagi penjualan minuman beralkohol di luar tempat yang telah ditetapkan. Selain itu dengan adanya peraturan ini diharapkan perdagangan dan konsumsi minuman beralkohol dapat dibatasi, kesemua itu merupakan implementasi dari tugas pemerintah sebagai pelayan publik.
+B. Penjelasan Pasal demi Pasal
+Pasal 1
+Cukup Jelas
+Pasal 2
+Cukup Jelas
+Pasal 3
+Cukup Jelas
+Pasal 4
+Cukup Jelas
+Pasal 5
+Cukup Jelas
+Pasal 6
+Cukup Jelas
+Pasal 7
+Cukup Jelas
+Pasal 8
+Cukup Jelas
+Pasal 9
+Cukup Jelas
+Pasal 10
+Cukup Jelas
+Pasal 11
+Cukup Jelas
+Pasal 12
+Cukup Jelas
+Pasal 13
+Cukup Jelas
+Pasal 14
+Cukup Jelas
+Pasal 15
+Cukup Jelas
+Pasal 16
+Cukup Jelas
+Pasal 17
+Cukup Jelas
+Pasal 18
+Cukup Jelas
+Pasal 19
+Cukup Jelas
+Pasal 20
+Cukup Jelas
+Pasal 21
+Cukup Jelas
+Pasal 22
+Cukup Jelas
+Pasal 23
+Cukup Jelas
+Pasal 24
+Cukup Jelas
+Pasal 25
+Cukup Jelas
+Pasal 26
+Cukup Jelas
+Pasal 27
+Cukup Jelas
+Pasal 28
+Cukup Jelas
+Pasal 29
+Cukup Jelas
+Pasal 30
+Cukup Jelas
+Pasal 31
+Cukup Jelas
+Pasal 32
+Cukup Jelas
+Pasal 33
+Cukup Jelas
+Pasal 34
+Cukup Jelas
+Pasal 35
+Cukup Jelas
+Pasal 36
+Cukup Jelas
+Pasal 37
+Cukup Jelas
+Pasal 38
+Cukup Jelas
+Pasal 39
+Cukup Jelas
+TAMBAHAN LEMBARAN DAERAH NOMOR 50.
