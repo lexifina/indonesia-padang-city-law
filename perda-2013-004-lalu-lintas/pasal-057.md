@@ -1,0 +1,6 @@
+# Pasal 57
+(1) Sanksi administratif berupa peringatan tertulis sebagaimana dimaksud dalam Pasal 56 ayat (2) huruf a dikenai sebanyak 3 (tiga) kali dengan jangka waktu masing-masing 30 (tiga puluh) hari kalender.
+(2) Dalam hal pengembang atau pembangun tidak melaksanakan kewajiban setelah berakhirnya jangka waktu peringatan tertulis ke 3 (tiga), dikenai sanksi administratif berupa penghentian sementara pelayanan umum dan/atau penghentian sementara kegiatan selama 30 (tiga puluh) hari kalender.
+(3) Dalam hal pengembang atau pembangun tetap tidak melaksanakan kewajiban setelah berakhirnya jangka waktu sebagaimana dimaksud pada ayat (2), dikenai denda paling banyak 1% (satu per seratus) dari nilai kewajiban yang harus dipenuhi oleh pengembang atau pembangun sebagaimana dimaksud dalam Pasal 20 ayat (4).
+(4) Dalam waktu 10 (sepuluh) hari kalender sejak tanggal pengenaan sanksi denda administratif atau 60 (enam puluh) hari kalender sejak pembayaran denda, pengembang atau pembangun tidak melaksanakan kewajibannya, izin sebagaimana dimaksud dalam Pasal 17 dibekukan.
+(5) Dalam waktu 30 (tigapuluh) hari kalender sejak pembekuan, pengembang atau pembangun tidak melaksanakan kewajibannya, maka izin sebagaimana dimaksud dalam Pasal 17 huruf a dan/atau huruf b dicabut.
