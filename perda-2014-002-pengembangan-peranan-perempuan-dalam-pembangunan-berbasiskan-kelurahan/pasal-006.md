@@ -1,0 +1,5 @@
+# Pasal 6
+(1) Walikota dalam melaksanakan kebijakan pengembangan peranan perempuan dalam pembangunan ditingkat kelurahan menghindari segala bentuk diskriminasi.
+(2) Pelaksanaan kebijakan pengembangan peranan perempuan dalam pembangunan ditingkat kelurahan sebagaimana dimaksud pada ayat (1) dikoordinasikan oleh Badan Pemberdayaan Mayarakat Perempuan dan Keluarga Berencana yang telah ditetapkan dalam pelaksanaannya berkoordinasi dengan satuan kerja perangkat daerah terkait, kelurahan, lembaga masyarakat, dan/atau perguruan tinggi.
+(3) Pelaksanaan program kegiatan sebagaimana dimaksud pada ayat (2) meliputi antara lain; analisis kebijakan, koordinasi, advokasi, sosialisasi, komunikasi, informasi, edukasi, pelatihan, fasilitasi pelayanan, penyediaan pelayanan, dan pengembangan model.
+(4) Kebijakan, program, dan kegiatan pengembangan peranan perempuan dalam pembangunan dituangkan dalam dokumen perencanaan dan anggaran yang meliputi Rencana Jangka Menengah Daerah, Rencana Pembangunan Jangka Panjang Daerah, Rencana Strategis Satuan Kerja Perangkat Daerah, Rencana Kerja Pemerintah Daerah, dan Rencana Kerja dan Anggaran Satuan Kerja Perangkat Daerah .
