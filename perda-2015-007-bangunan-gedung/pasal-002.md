@@ -1,0 +1,2 @@
+# Pasal 2
+Peraturan Daerah ini dimaksudkan sebagai pengaturan lebih lanjut dari Undang-Undang Nomor 28 Tahun 2002 tentang Bangunan gedung dan Peraturan Pemerintah Nomor 36 Tahun 2005 tentang Peraturan Pelaksana Undang-Undang Nomor 28 Tahun 2002 tentang Bangunan gedung,dalam pemenuhan persyaratan yang diperlukan dalam penyelenggaraan bangunan gedung, dan dalam pemenuhan tertib penyelenggaraan bangunan gedung di daerah.

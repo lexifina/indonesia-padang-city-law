@@ -1,0 +1,4 @@
+# Pasal 51
+(1) Sistem pengolahan dan pembuangan air limbah kotor sebagaimana dimaksud dalam Pasal 50 ayat (1) harus direncanakan dan dipasang dengan mempertimbangkan jenis dan tingkat bahayanya yang diwujudkan dalam bentuk pemilihan sistem pengaliran pembuangan dan penggunaan peralatan yang dibutuhkan dan sistem pengolahan dan pembuangannya.
+(2) Air limbah beracun dan berbahaya tidak boleh digabung dengan air limbah rumah tangga, yang sebelum dibuang ke saluran terbuka harus diproses sesuai dengan pedoman dan standar teknis terkait.
+(3) Persyaratan teknis sistem air limbah harus seuai dengan ketentuan SNI 03-6481-2000 Sistem Plambing 2000, atau edisi terbaru, SNI 03-2398-2002 Tata cara perencanaan tangki septik dengan sistem resapan, atau edisi terbaru, SNI 03-6379-2000 Spesifikasi dan pemasangan perangkap bau, atau edisi terbaru dan atau standar teknis terkait.

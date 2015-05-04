@@ -1,0 +1,3 @@
+# Pasal 33
+(1) Persyaratan ruang sempadan depan bangunan gedung sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf b harus mengikuti keserasian lansekap pada ruas jalan yang terkait sesuai dengan ketentuan dalam RTRW, RDTR, dan atau RTBL, yang mencakup pagar, gerbang, tanaman besar, pohon dan bangunan penunjang.
+(2) Terhadap persyaratan ruang sempadan depan bangunan sebagaimana dimaksud pada ayat (1) dapat ditetapkan karakteristik lansekap jalan atau ruas jalan dengan mempertimbangkan keserasian tampak depan bangunan, ruang sempadan depan bangunan, pagar, jalur pajalan kaki, jalur kendaraan, jalur hijau median jalan dan sarana utilitas umum lainnya.

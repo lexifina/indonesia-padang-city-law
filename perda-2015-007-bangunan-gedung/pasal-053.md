@@ -1,0 +1,5 @@
+# Pasal 53
+(1) Sistem penyaluran air hujan sebagaimana dimaksud dalam Pasal 50 ayat (1) harus direncanakan dan dipasang dengan mempertimbangkan ketinggian permukaan air tanah, permeabilitas tanah dan ketersediaan jaringan drainase lingkungan kota.
+(2) Setiap bangunan gedung dan pekarangannya harus dilengkapi dengan sistem penyaluran air hujan baik dengan sistem peresapan air ke dalam tanah pekarangan dan atau dialirkan ke dalam sumur resapan sebelum dialirkan ke jaringan drainase lingkungan.
+(3) Sistem penyaluran air hujan harus dipelihara untuk mencegah terjadinya endapan dan penyumbatan pada saluran.
+(4) Persyaratan penyaluran air hujan harus sesuai dengan ketentuan SNI 03-4681-2000 sistem plambing 2000, atau edisi terbaru, SNI 03-2453-2002 Tata cara perencanaan sumur resapan air hujan untuk lahan pekarangan, atau edisi terbaru, SNI 03-2459-2002 spesifikasi sumur resapan air hujan untuk lahan pekarangan, atau edisi terbaru, dan standar tentang tata cara perencanaan, pemasangan dan pemeliharaan sistem penyaluran air hujan pada bangunan gedung atau standar baku dan atau pedoman terkait.

@@ -1,0 +1,4 @@
+# Pasal 32
+(1) Ruang terbuka hijau pekarangansebagaimana dimaksud pada Pasal 31 ayat (2) huruf a sebagai ruang yang berhubungan langsung dengan dan terletak pada persil yang sama dengan bangunan gedung, berfungsi sebagai tempat tumbuhnya tanaman, peresapan air, sirkulasi, unsur estetik, sebagai ruang untuk kegiatan atau ruang fasilitas (amenitas).
+(2) Persyaratan ruang terbuka hijau pekarangan ditetapkan dalam RTRW, RDTR dan atau RTBL, secara langsung atau tidak langsung dalam bentuk GSB, KDB, KDH, KLB, sirkulasi, fasilitas parkir dan ketetapan lainnya yang bersifat mengikat semua pihak berkepentingan.
+(3) Dalam hal ketentuan mengenai persyaratan ruang terbuka hijau pekarangansebagaimana dimaksud pada ayat (2) belum ditetapkan, maka ketentuan mengenai persyaratan ruang terbuka hijau pekarangan untuk suatu lokasi diatur dalam peraturan Walikota sebagai acuan bagi penerbitan IMB.
