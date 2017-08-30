@@ -1,0 +1,2 @@
+# Pasal 34
+Pada saat Peraturan Daerah ini mulai berlaku, maka Peraturan Daerah Kota Padang Nomor 02 Tahun 2005 tentang Kedudukan Protokoler dan Keuangan Pimpinan dan Anggota Dewan Perwakilan Rakyat Daerah (Lembaran Daerah Tahun 2005 Nomor 04, Tambahan Lembaran Daerah Nomor 01) sebagaimana telah diubah dengan Peraturan Daerah Kota Padang Nomor 07 Tahun 2007 (Lembaran Daerah Tahun 2007 Nomor 07, Tambahan Lembaran Daerah Nomor 08) sepanjang mengatur tentang Hak Keuangan dan administratif Pimpinan dan anggota DPRD dicabut dan dinyatakan tidak berlaku.
