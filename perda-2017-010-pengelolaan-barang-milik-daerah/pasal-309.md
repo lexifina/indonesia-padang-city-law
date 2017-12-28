@@ -1,0 +1,6 @@
+# Pasal 309
+(1) Pengamanan hukum terhadap tanah yang belum memiliki sertifikat sebagaimana dimaksud dalam Pasal 306 ayat (4) huruf a dilakukan dengan cara:
+a. apabila barang milik daerah telah didukung oleh dokumen awal kepemilikan, antara lain berupa Letter C , akta jual beli, akte hibah, atau dokumen setara lainnya, maka Pengelola Barang/Pengguna Barang dan/atau Kuasa Pengguna Barang segera mengajukan permohonan penerbitan sertifikat atas nama pemerintah daerah kepada Badan Pertanahan Nasional sesuai dengan ketentuan peraturan perundang-undangan; dan b. apabila barang milik daerah tidak didukung dengan dokumen kepemilikan, Pengelola Barang/Pengguna Barang dan/atau Kuasa Pengguna Barang mengupayakan untuk memperoleh dokumen awal kepemilikan seperti riwayat tanah.
+(2) Pengamanan hukum terhadap tanah yang sudah bersertifikat namun belum atas nama pemerintah daerah sebagaimana dimaksud dalam Pasal 306 ayat (4) huruf b dilakukan dengan cara Pengelola Barang/Pengguna Barang dan/atau Kuasa Pengguna Barang segera mengajukan permohonan perubahan nama sertifikat hak atas tanah kepada kantor pertanahan setempat menjadi atas nama pemerintah daerah.
+Paragraf 3
+Tata Cara Pengamanan Gedung Dan/atau Bangunan

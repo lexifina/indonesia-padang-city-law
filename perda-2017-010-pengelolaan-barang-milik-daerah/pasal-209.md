@@ -1,0 +1,5 @@
+# Pasal 209
+(1) Berdasarkan laporan analisis sebagaimana dimaksud dalam Pasal 208 ayat (1) dan/atau mempertimbangkan laporan penilaian nilai wajar barang milik daerah, Tim KSP menghitung besaran kontribusi tetap dan persentase pembagian keuntungan.
+(2) Penghitungan besaran kontribusi tetap dan persentase pembagian keuntungan oleh Tim KSP sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan sebagaimana diatur dalam Pasal 189 sampai dengan Pasal 194.
+(3) Dalam hal usulan besaran kontribusi tetap dan persentase pembagian keuntungan yang diajukan oleh pihak lain lebih besar dari hasil perhitungan Tim KSP sebagaimana dimaksud pada ayat (2), besaran kontribusi tetap dan persentase pembagian keuntungan yang ditetapkan dalam persetujuan KSP adalah sebesar usulan besaran kontribusi tetap dan persentase pembagian keuntungan yang diajukan oleh pihak lain.
+(4) Besaran kontribusi tetap dan persentase pembagian keuntungan sebagaimana dimaksud pada ayat (1) dijadikan nilai limit terendah dalam pelaksanaan pemilihan mitra KSP.

@@ -1,0 +1,11 @@
+# Pasal 47
+(1) Hibah dari pihak lain kepada pemerintah daerah atas inisiatif dari pihak lain diusulkan pihak lain kepada pengguna barang atau pengelola barang atau Walikota.
+(2) Tata cara hibah kepada Pemerintah Daerah atas inisiatif dari Pihak lain adalah sebagai berikut :
+a. tawaran hibah kepada Pemerintah Daerah dapat diterima oleh Walikota/Sekretaris Daerah/Kepala OPD/Unit Kerja;
+b. dalam hal tawaran diterima oleh Walikota/Sekretaris Daerah, maka berdasarkan disposisi Walikota/Sekretaris Daerah, OPD/Unit Kerja yang fungsi dan tugasnya membidangi obyek hibah menelaah tawaran tersebut dan telaahnya disampaikan kepada Walikota dengan tembusan kepada OPD yang fungsi dan tugasnya membidangi pengelolaan barang daerah;
+c. dalam hal tawaran diterima oleh Kepala OPD/Unit Kerja, maka OPD/Unit Kerja yang menerima tawaran menelaah tawaran tersebut dan telaahnya disampaikan kepada Walikota/Sekretaris Daerah dengan tembusan kepada OPD yang fungsi dan tugasnya membidangi pengelolaan barang daerah;
+d. apabila disposisi Walikota/Sekretaris Daerah menyatakan rencana hibah dapat ditindaklanjuti, OPD yang fungsi dan tugasnya membidangi pengelolaan barang daerah bersama OPD/Unit Kerja yang fungsi dan tugasnya membidangi obyek hibah melakukan verifikasi dan examinasi terhadap barang hibah/rencana hibah;
+e. apabila barang hibah sudah sesuai dengan dokumen spesifikasi teknis, maka OPD/Unit Kerja yang fungsi dan tugasnya membidangi langsung obyek hibah yang ditawarkan berkoordinasi dengan OPD/Unit Kerja yang fungsi dan tugasnya membidangi pengelolaan barang daerah untuk memfasilitasi membuat Perjanjian Hibah Barang dan Berita Acara Serah Terima Barang sampai siap untuk ditandatangani oleh Walikota/Sekretaris Daerah;
+f. perjanjian hibah barang dilakukan menggunakan akta notaris; dan g. Setelah barang Hibah diterima, OPD/Unit Kerja yang fungsi dan tugasnya membidangi obyek hibah melaporkan barang hibah tersebut kepada Pengelola dengan tembusan kepada OPD yang fungsi dan tugasnya membidangi pengelolaan barang daerah disertai dengan usul penggunaannya, kemudian Pengelola mencatat barang hibah tersebut menjadi aset daerah dan meneliti usul penggunaannya untuk ditetapkan status penggunaannnya.
+Bagian Keempat
+Serah Terima Hibah Dari Pihak Lain Kepada Pemerintah Daerah

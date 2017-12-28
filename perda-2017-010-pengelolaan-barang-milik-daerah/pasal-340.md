@@ -1,0 +1,2 @@
+# Pasal 340
+Bangunan yang harus dihapuskan karena anggaran untuk bangunan pengganti sudah disediakan dalam dokumen penganggaran sebagaimana dimaksud dalam Pasal 338 ayat (2) huruf b, dimaksudkan bahwa yang dihapuskan adalah bangunan yang berdiri di atas tanah tersebut dirobohkan untuk selanjutnya didirikan bangunan baru di atas tanah yang sama (rekonstruksi) sesuai dengan alokasi anggaran yang telah disediakan dalam dokumen penganggaran.

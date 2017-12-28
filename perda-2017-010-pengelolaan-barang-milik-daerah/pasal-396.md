@@ -1,0 +1,6 @@
+# Pasal 396
+(1) Walikota membentuk Tim untuk melakukan monitoring pelaksanaan pengadaan/ pembangunan barang pengganti berdasarkan laporan konsultan pengawas dan penelitian lapangan.
+(2) Sebelum dilakukan penyerahan barang milik daerah yang dilepas, Pengelola Barang melakukan penilaian sebagaimana dimaksud dalam Pasal 333 dan Pasal 334 terhadap kesesuaian barang pengganti sesuai dengan yang tertuang dalam perjanjian tukar menukar.
+(3) Dalam hal hasil penilaian sebagaimana tersebut pada ayat (2) menunjukkan bahwa terdapat ketidaksesuian spesifikasi dan/atau jumlah barang pengganti dengan perjanjian tukar menukar, mitra tukar menukar berkewajiban melengkapi/memperbaiki ketidaksesuaian tersebut.
+(4) Dalam hal kewajiban mitra tukar menukar untuk melengkapi/memperbaiki sebagaimana dimaksud pada ayat (3) tidak dapat dipenuhi, maka mitra tukar menukar berkewajiban untuk menyetorkan selisih nilai barang milik daerah dengan barang pengganti ke rekening Kas Umum Daerah.
+(5) Walikota membentuk Tim untuk melakukan penelitian kelengkapan dokumen barang pengganti, antara lain bukti kepemilikan, serta menyiapkan Berita Acara Serah Terima untuk ditandatangani oleh Pengelola Barang dan mitra tukar menukar.
