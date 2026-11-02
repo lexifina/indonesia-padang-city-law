@@ -1,0 +1,24 @@
+Law texts
+
+The texts in this repository are Peraturan Daerah (Perda) of Kota Padang (Indonesia) as enacted, from the copies (salinan) published by
+JDIH Kota Padang (Bagian Hukum Sekretariat Daerah Kota Padang) on https://jdih.padang.go.id.
+
+- Copyright: Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42 (as printed in the copy of the
+  Kementerian Sekretariat Negara, https://jdih.setneg.go.id, read 2026-11-02):
+  "Tidak ada Hak Cipta atas hasil karya berupa: a. hasil rapat terbuka lembaga negara; b. peraturan perundang-undangan; c. pidato kenegaraan atau pidato pejabat pemerintah; d. putusan pengadilan atau penetapan hakim; dan e. kitab suci atau simbol keagamaan."
+  ("There is no copyright in works consisting of: ... b. laws and regulations; ..."). A Peraturan Daerah Kabupaten/Kota
+  is one of the peraturan perundang-undangan listed in Undang-Undang Nomor 12 Tahun 2011, Pasal 7(1) huruf g.
+- The JDIH's terms of use (https://jdih.padang.go.id/syarat-ketentuan, "Terakhir diperbarui: 1 Juni 2023",
+  re-read 2026-11-02) restrict reuse: "Semua konten, termasuk teks, grafik, logo, gambar, audio, dan materi lainnya
+  yang terdapat di situs web ini, adalah milik JDIH atau pemberi lisensinya dan dilindungi oleh hukum hak cipta dan
+  hak kekayaan intelektual lainnya. Anda dapat mengunduh atau mencetak konten dari situs web ini hanya untuk
+  penggunaan pribadi, non-komersial Anda, dengan ketentuan bahwa Anda tidak mengubah konten dan Anda menyertakan
+  semua pemberitahuan hak cipta dan kepemilikan lainnya."
+  The texts are official acts excluded from copyright by UU 28/2014, Pasal 42; this record relies on that exemption.
+- The texts are reproduced without change to their wording; only the arrangement (one file per Pasal, one paragraph
+  per line) is Lexifina's. Neither the Government of Kota Padang nor JDIH endorses this repository.
+
+Attribution: Source: JDIH Kota Padang (Bagian Hukum Sekretariat Daerah Kota Padang), https://jdih.padang.go.id.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

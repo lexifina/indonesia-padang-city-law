@@ -1,0 +1,355 @@
+{
+ "country": "ID-SB-PADANG",
+ "acts": [
+  {
+   "slug": "perda-2005-011-ketertiban-umum-dan-ketentraman-masyarakat",
+   "short": "Perda Padang City 11/2005",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 11 TAHUN 2005 TENTANG KETERTIBAN UMUM DAN KETENTRAMAN MASYARAKAT",
+   "url": "https://jdih.padang.go.id/peraturan/ketertiban-umum-dan-ketentraman-masyarakat-2272",
+   "versions": [
+    {
+     "from": "2005-09-15",
+     "units": 18,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2272",
+     "sha256": "5e36a81947c026e0c8ccd72fcdde767daab08892349f354b196137567b17b99b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2007-010-penyertaan-modal-pemerintah-kota-padang-pada-pt-bank-pembangunan",
+   "short": "Perda Padang City 10/2007",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 10 TAHUN 2007 TENTANG PENYERTAAN MODAL PEMERINTAH KOTA PADANG PADA PT. BANK PEMBANGUNAN DAERAH SUMATERA BARAT",
+   "url": "https://jdih.padang.go.id/peraturan/penyertaan-modal-pemerintah-kota-padang-pada-pt-bank-pembangunan-daerah-sumatera-barat",
+   "versions": [
+    {
+     "from": "2007-10-22",
+     "units": 12,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2260",
+     "sha256": "d42ecb91fdb09c7681acd4313551e76c26cce64b7ab08bd99b16287ad18d8b0b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2008-015-pembentukan-organisasi-dan-tata-kerja-sekretariat-daerah-dan",
+   "short": "Perda Padang City 15/2008",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 15 TAHUN 2008 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA SEKRETARIAT DAERAH DAN SEKRETARIAT DEWAN PERWAKILAN RAKYAT DAERAH KOTA PADANG",
+   "url": "https://jdih.padang.go.id/peraturan/pembentukan-organisasi-dan-tata-kerja-sekretariat-daerah-dan-sekretariat-dewan-perwakilan-rakyat-daerah-kota-padang",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 26,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2245",
+     "sha256": "bca25a5a86e95ca726a82973422c31464c83e2280fd7815144287b245d083245"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2008-016-pembentukan-organisasi-dan-tata-kerja-dinas-daerah-kota-padang",
+   "short": "Perda Padang City 16/2008",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 16 TAHUN 2008 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA DINAS DAERAH KOTA PADANG",
+   "url": "https://jdih.padang.go.id/peraturan/pembentukan-organisasi-dan-tata-kerja-dinas-daerah-kota-padang-2246",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 75,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2246",
+     "sha256": "889ecb048eb6fc3cf18d238961acf26f18ddf014fe455ff7dbde0a444d87065f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2008-019-pembentukan-organisasi-dan-tata-kerja-kecamatan-kota-padang",
+   "short": "Perda Padang City 19/2008",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 19 TAHUN 2008 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA KECAMATAN KOTA PADANG",
+   "url": "https://jdih.padang.go.id/peraturan/pembentukan-organisasi-dan-tata-kerja-kecamatan-kota-padang-2249",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 25,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2249",
+     "sha256": "e1ef985d53d33c67ed38df6adc5919d271f07ffb6a481206d75f344c9f4c9879"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2008-020-pembentukan-organisasi-dan-tata-kerja-kelurahan-kota-padang",
+   "short": "Perda Padang City 20/2008",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 20 TAHUN 2008 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA KELURAHAN KOTA PADANG",
+   "url": "https://jdih.padang.go.id/peraturan/pembentukan-organisasi-dan-tata-kerja-kelurahan-kota-padang",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 19,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2250",
+     "sha256": "e506673c81758614d8ef53c6e77d63590a11c10599d6fedc9f45f55c9deeeebf"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2008-022-pembentukan-organisasi-dan-tata-kerja-satuan-polisi-pamong-praja-kota",
+   "short": "Perda Padang City 22/2008",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 22 TAHUN 2008 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA SATUAN POLISI PAMONG PRAJA KOTA PADANG",
+   "url": "https://jdih.padang.go.id/peraturan/pembentukan-organisasi-dan-tata-kerja-satuan-polisi-pamong-praja-kota-padang-2252",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 23,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2252",
+     "sha256": "65015555ef7e6705a5e8c80fa468bcfe17e6a3231b94b884d243505d5610aea7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-001-bea-perolehan-hak-atas-tanah-dan-bangunan",
+   "short": "Perda Padang City 1/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 1 TAHUN 2011 TENTANG BEA PEROLEHAN HAK ATAS TANAH DAN BANGUNAN",
+   "url": "https://jdih.padang.go.id/peraturan/bea-perolehan-hak-atas-tanah-dan-bangunan-2182",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 38,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2182",
+     "sha256": "46407e7fd3adbb06dc542c638cab8e325d3c66a1f6789ee1460ec29253cb7a5f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-002-pajak-air-tanah",
+   "short": "Perda Padang City 2/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 2 TAHUN 2011 TENTANG PAJAK AIR TANAH",
+   "url": "https://jdih.padang.go.id/peraturan/pajak-air-tanah-2183",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 35,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2183",
+     "sha256": "1c9f83e3f07ccf618c636ccff03f2ceb74457f997dbda601d0d569a74763e19c"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-003-pajak-restoran",
+   "short": "Perda Padang City 3/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 3 TAHUN 2011 TENTANG PAJAK RESTORAN",
+   "url": "https://jdih.padang.go.id/peraturan/pajak-restoran-2184",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 37,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2184",
+     "sha256": "c04763a6b9ebe9d79c92105a021825928f08fa3beb9fe81f54cbee09f00dba06"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-008-pajak-daerah",
+   "short": "Perda Padang City 8/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 8 TAHUN 2011 TENTANG PAJAK DAERAH.",
+   "url": "https://jdih.padang.go.id/peraturan/pajak-daerah--2178",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 66,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2178",
+     "sha256": "1857358f630e4b320f3f0f595a0e6489bfef06cf676e2089c829d153b056cae8"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-009-penyertaan-modal-pemerintah-kota-padang-pada-perseroan-terbatas-pt",
+   "short": "Perda Padang City 9/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 9 TAHUN 2011 TENTANG PENYERTAAN MODAL PEMERINTAH KOTA PADANG PADA PERSEROAN TERBATAS (PT) BALAIRUNG CITRAJAYA SUMBAR",
+   "url": "https://jdih.padang.go.id/peraturan/penyertaan-modal-pemerintah-kota-padang-pada-perseroan-terbatas-pt-balairung-citrajaya-sumbar",
+   "versions": [
+    {
+     "from": "2011-07-18",
+     "units": 10,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2181",
+     "sha256": "193f785d0782eba7541617124f5966d3d862d8cde6765b2dfe9f2e3162d1fdaf"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-014-pengelolaan-rumah-susun-sederhana-sewa",
+   "short": "Perda Padang City 14/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 14 TAHUN 2011 TENTANG PENGELOLAAN RUMAH SUSUN SEDERHANA SEWA",
+   "url": "https://jdih.padang.go.id/peraturan/pengelolaan-rumah-susun-sederhana-sewa-2231",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 43,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2231",
+     "sha256": "673b2b9366ef9b5e026c30692040c0b9bd54d3f6fbdb6627fb05210e57676749"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-015-izin-gangguan",
+   "short": "Perda Padang City 15/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 15 TAHUN 2011 TENTANG IZIN GANGGUAN",
+   "url": "https://jdih.padang.go.id/peraturan/izin-gangguan-2232",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 33,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2232",
+     "sha256": "9ca5f73214d79f9f0cdf1fb1deec51f130b4683561aa7a5c55b39bf40b7f847f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-018-keterbukaan-informasi-publik-dalam-penyelenggaraan-pemerintahan",
+   "short": "Perda Padang City 18/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 18 TAHUN 2011 TENTANG KETERBUKAAN INFORMASI PUBLIK DALAM PENYELENGGARAAN PEMERINTAHAN DAERAH KOTA PADANG",
+   "url": "https://jdih.padang.go.id/peraturan/keterbukaan-informasi-publik-dalam-penyelenggaraan-pemerintahan-daerah-kota-padang",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 66,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2233",
+     "sha256": "a5af635b70a5b819486225325522d1fb59054a2bc6751af0359b9d48eb91b912"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-007-perubahan-atas-peraturan-daerah-kota-padang-nomor-8-tahun-2011",
+   "short": "Perda Padang City 7/2012",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 7 TAHUN 2012 TENTANG PERUBAHAN ATAS PERATURAN DAERAH KOTA PADANG NOMOR 8 TAHUN 2011 TENTANG PAJAK DAERAH",
+   "url": "https://jdih.padang.go.id/peraturan/perubahan-atas-peraturan-daerah-kota-padang-nomor-8-tahun-2011-tentang-pajak-daerah-2212",
+   "versions": [
+    {
+     "from": "2012-08-13",
+     "units": 5,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2212",
+     "sha256": "2aa0fb2b17829e5ea375360659dfd41fd9ec937375d77b476e9d3b8942b262df"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-008-pengawasan-pengendalian-dan-pelarangan-minuman-beralkohol",
+   "short": "Perda Padang City 8/2012",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 8 TAHUN 2012 TENTANG PENGAWASAN, PENGENDALIAN DAN PELARANGAN MINUMAN BERALKOHOL",
+   "url": "https://jdih.padang.go.id/peraturan/pengawasan-pengendalian-dan-pelarangan-minuman-beralkohol-2213",
+   "versions": [
+    {
+     "from": "2012-08-13",
+     "units": 42,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2213",
+     "sha256": "d70ccf77fee2982ed40c95859ef55a74a9d293f7e684b53214c2eff016e8167c"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-018-pemberdayaan-dan-pelestarian-adat-budaya-dalam-hidup-bernagari-di",
+   "short": "Perda Padang City 18/2012",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 18 TAHUN 2012 TENTANG PEMBERDAYAAN DAN PELESTARIAN ADAT BUDAYA DALAM HIDUP BERNAGARI DI KOTA PADANG",
+   "url": "https://jdih.padang.go.id/peraturan/pemberdayaan-dan-pelestarian-adat-budaya-dalam-hidup-bernagari-di-kota-padang",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 20,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2221",
+     "sha256": "b1f0339762d8a0c5fe0df7c29a3b4b97626f52162a6a64e27fe89b9b37b059ff"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-019-tanggungjawab-sosial-dan-lingkungan-perusahaan",
+   "short": "Perda Padang City 19/2012",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 19 TAHUN 2012 TENTANG TANGGUNGJAWAB SOSIAL DAN LINGKUNGAN PERUSAHAAN",
+   "url": "https://jdih.padang.go.id/peraturan/tanggungjawab-sosial-dan-lingkungan-perusahaan",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 25,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2222",
+     "sha256": "720391b3a97cc29382cadc13629022dbea3f39776a4f975b75e0ffb14f20638d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-020-pemberdayaan-usaha-mikro-kecil-dan-menengah",
+   "short": "Perda Padang City 20/2012",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 20 TAHUN 2012 TENTANG PEMBERDAYAAN USAHA MIKRO, KECIL DAN MENENGAH",
+   "url": "https://jdih.padang.go.id/peraturan/pemberdayaan-usaha-mikro-kecil-dan-menengah-2223",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 41,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2223",
+     "sha256": "e5ea2c2bf4cbd2a6b96a52a097a0e1682e55a29424634399a18b72170ec766b0"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-021-pengelolaan-sampah",
+   "short": "Perda Padang City 21/2012",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 21 TAHUN 2012 TENTANG PENGELOLAAN SAMPAH",
+   "url": "https://jdih.padang.go.id/peraturan/pengelolaan-sampah-1",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 67,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2224",
+     "sha256": "c3d0bffd2c346071f9313c482934abf4c081bc68756dd4a803c5e4d4cbace677"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-023-pengelolaan-rumah-kos",
+   "short": "Perda Padang City 23/2012",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 23 TAHUN 2012 TENTANG PENGELOLAAN RUMAH KOS",
+   "url": "https://jdih.padang.go.id/peraturan/pengelolaan-rumah-kos-2226",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 24,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2226",
+     "sha256": "3a4976fd479eabf2f8c787c664d4ca010787f7a60978c39af4c8f006333c02b6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-007-pajak-bumi-dan-bangunan-perdesaan-dan-perkotaan",
+   "short": "Perda Padang City 7/2011",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 7 TAHUN 2011 TENTANG PAJAK BUMI DAN BANGUNAN PERDESAAN DAN PERKOTAAN",
+   "url": "https://jdih.padang.go.id/peraturan/pajak-bumi-dan-bangunan-perdesaan-dan-perkotaan--2188",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 35,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2188",
+     "sha256": "a9fa2a007f643edb6cdd9455c721f0671e32dd96092d0b4b60e89bfdd5c52af8"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-004-lalu-lintas",
+   "short": "Perda Padang City 4/2013",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 4 TAHUN 2013 TENTANG LALU LINTAS",
+   "url": "https://jdih.padang.go.id/peraturan/lalu-lintas",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 69,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2202",
+     "sha256": "450b04d722fe64f8ab909aa816069d700d65f71caa013832f0802bbb9792f2d7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-009-tera-dan-atau-tera-ulang-alat-ukur-alat-takar-alat-timbang-dan",
+   "short": "Perda Padang City 9/2012",
+   "title": "PERATURAN DAERAH KOTA PADANG NOMOR 9 TAHUN 2012 TENTANG TERA DAN ATAU TERA ULANG ALAT UKUR, ALAT TAKAR, ALAT TIMBANG DAN PERLENGKAPANNYA",
+   "url": "https://jdih.padang.go.id/peraturan/tera-dan-atau-tera-ulang-alat-ukur-alat-takar-alat-timbang-dan-perlengkapannya-2214",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 27,
+     "source_url": "https://jdih.padang.go.id/peraturan/download/2214",
+     "sha256": "99e595ac2a8fa3803918380bb7b1b1315f803909f9ff281a8e68ab58b93502bc"
+    }
+   ]
+  }
+ ]
+}

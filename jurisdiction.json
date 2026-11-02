@@ -1,0 +1,9 @@
+{
+  "path": "id-sb-padang",
+  "code": "ID-SB-PADANG",
+  "name": "Padang City (Indonesia)",
+  "level": "municipality",
+  "parent": "id-sb",
+  "repo": "https://github.com/lexifina/indonesia-padang-city-law",
+  "build": "built: Peraturan Daerah (Perda) of Kota Padang as enacted, Indonesian text, from JDIH Kota Padang (Bagian Hukum Sekretariat Daerah Kota Padang)"
+}
