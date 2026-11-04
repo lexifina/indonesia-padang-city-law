@@ -1,6 +1,6 @@
 # Padang City (Indonesia): law history in git
 
-The Peraturan Daerah (Perda) of Kota Padang, Indonesia, as a git history: one folder per Perda, one file per Pasal (article), one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the Indonesian text of each Perda as enacted, from the copy (salinan) published by JDIH Kota Padang (Bagian Hukum Sekretariat Daerah Kota Padang).
+The Peraturan Daerah (Perda) of Kota Padang, Indonesia, as a git history: one folder per Perda, normally one file per Pasal (article), so `git blame`, `git log` and `git diff` work with the text. The text is the Indonesian text of each Perda as enacted, from the copy (salinan) published by JDIH Kota Padang (Bagian Hukum Sekretariat Daerah Kota Padang).
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
@@ -15,8 +15,11 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `z1-penutup.md` | promulgation order, signatures, Lembaran Daerah number, certification of the copy |
 | `z2-penjelasan.md` | the elucidation (Penjelasan), where printed |
 | `z3-lampiran.md` | the annex (Lampiran), where printed |
+| `teks-lengkap.md` | the complete text in one file for Perda 5/2011 and Perda 3/2014, whose page layout does not split reliably into Pasal files |
 
-The record is built in parts, oldest Perda first, and holds only the Perda JDIH publishes as a PDF with a text layer that passes the check below; scans and documents the reader cannot split into Pasal are left out for now. Budgets (APBD and their accountability reports), development plans (RPJMD, RPJPD) and spatial plans (RTRW, zoning), which are mostly tables and maps, are not included. It is not (yet) every Perda of Kota Padang.
+The record is built in parts, oldest Perda first, and holds only the Perda JDIH publishes as a PDF with a text layer that passes the check below; scans are left out for now. Acts whose layout cannot be split reliably into Pasal files may be kept as complete-text files. Budgets (APBD and their accountability reports), development plans (RPJMD, RPJPD) and spatial plans (RTRW, zoning), which are mostly tables and maps, are not included. It is not (yet) every Perda of Kota Padang.
+
+Perda 5/2011 on education and Perda 3/2014 on street vendors are included as complete-text files. Each PDF displays one Garuda emblem on page 1, accounted for by an in-place licence omission notice. The operative wording is in the PDF text layer.
 
 ## Source
 

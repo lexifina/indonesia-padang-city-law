@@ -1,0 +1,56 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2005-011-ketertiban-umum-dan-ketentraman-masyarakat",
+    "perda-2007-010-penyertaan-modal-pemerintah-kota-padang-pada-pt-bank-pembangunan",
+    "perda-2008-015-pembentukan-organisasi-dan-tata-kerja-sekretariat-daerah-dan",
+    "perda-2008-016-pembentukan-organisasi-dan-tata-kerja-dinas-daerah-kota-padang",
+    "perda-2008-019-pembentukan-organisasi-dan-tata-kerja-kecamatan-kota-padang",
+    "perda-2008-020-pembentukan-organisasi-dan-tata-kerja-kelurahan-kota-padang",
+    "perda-2008-022-pembentukan-organisasi-dan-tata-kerja-satuan-polisi-pamong-praja-kota",
+    "perda-2011-001-bea-perolehan-hak-atas-tanah-dan-bangunan",
+    "perda-2011-002-pajak-air-tanah",
+    "perda-2011-003-pajak-restoran",
+    "perda-2011-007-pajak-bumi-dan-bangunan-perdesaan-dan-perkotaan",
+    "perda-2011-008-pajak-daerah",
+    "perda-2011-009-penyertaan-modal-pemerintah-kota-padang-pada-perseroan-terbatas-pt",
+    "perda-2011-014-pengelolaan-rumah-susun-sederhana-sewa",
+    "perda-2011-015-izin-gangguan",
+    "perda-2011-018-keterbukaan-informasi-publik-dalam-penyelenggaraan-pemerintahan",
+    "perda-2012-007-perubahan-atas-peraturan-daerah-kota-padang-nomor-8-tahun-2011",
+    "perda-2012-008-pengawasan-pengendalian-dan-pelarangan-minuman-beralkohol",
+    "perda-2012-009-tera-dan-atau-tera-ulang-alat-ukur-alat-takar-alat-timbang-dan",
+    "perda-2012-018-pemberdayaan-dan-pelestarian-adat-budaya-dalam-hidup-bernagari-di",
+    "perda-2012-019-tanggungjawab-sosial-dan-lingkungan-perusahaan",
+    "perda-2012-020-pemberdayaan-usaha-mikro-kecil-dan-menengah",
+    "perda-2012-021-pengelolaan-sampah",
+    "perda-2012-023-pengelolaan-rumah-kos",
+    "perda-2013-004-lalu-lintas"
+   ],
+   "sha256": "9ef3620c322042c75d1b2cf6385e0575f3b2a72c5ebbec3bb8cb63dfc1f52d47"
+  },
+  "20-perda-02.json": {
+   "acts": [
+    "perda-2014-002-pengembangan-peranan-perempuan-dalam-pembangunan-berbasiskan-kelurahan",
+    "perda-2014-009-pembentukan-organisasi-dan-tata-kerja-satuan-polisi-pamong-praja",
+    "perda-2015-001-tambahan-penyertaan-modal-pemerintah-kota-padang-pada-perseroan",
+    "perda-2015-002-bantuan-hukum-untuk-masyarakat-miskin-bab-i-ketentuan-umum",
+    "perda-2015-007-bangunan-gedung",
+    "perda-2015-008-perlindungan-dan-pengelolaan-lingkungan-hidup",
+    "perda-2017-005-hak-keuangan-dan-administratif-pimpinan-dan-anggota-dewan-perwakilan",
+    "perda-2017-007-penyertaan-modal-pemerintah-kota-padang-pada-perusahaan-umum-daerah",
+    "perda-2017-010-pengelolaan-barang-milik-daerah"
+   ],
+   "sha256": "2218818a1a95aced09e268a8265fdb6a77f538147a1ad5b141ef6c32db15ef71"
+  },
+  "30-perda-03.json": {
+   "acts": [
+    "perda-2011-005-penyelenggaraan-pendidikan",
+    "perda-2014-003-penataan-dan-pemberdayaan-pedagang-kaki-lima"
+   ],
+   "sha256": "e50726754eba389d7d4c4aae379977735c351712ce2e71e4181ffc26369e7ff4"
+  }
+ },
+ "schema": 1
+}
