@@ -1,5 +1,7 @@
 # Padang City (Indonesia): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Padang, West Sumatra, Indonesia, which global-law reads at `indonesia/west-sumatra/padang/acts/`.
+
 The Peraturan Daerah (Perda) of Kota Padang, Indonesia, as a git history: one folder per Perda, normally one file per Pasal (article), so `git blame`, `git log` and `git diff` work with the text. The text is the Indonesian text of each Perda as enacted, from the copy (salinan) published by JDIH Kota Padang (Bagian Hukum Sekretariat Daerah Kota Padang).
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
